@@ -46,7 +46,7 @@ function Switch(props:SwitchProps) {
             "transition-all duration-500 ease-in-out",
             {
                 "rounded-none": rounded === "none",
-                "transform translate-x-6":checked,
+                "transform translate-x-4":checked,
             }
         )}>
         </div>

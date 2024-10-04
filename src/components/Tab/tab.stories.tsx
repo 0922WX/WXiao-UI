@@ -5,6 +5,7 @@ import { TabProps } from ".";
 export default {
   title: "Tabs",
   component: Tabs,
+  tags:["autodocs"]
 };
 
 const tabsData = [

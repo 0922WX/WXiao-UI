@@ -5,6 +5,7 @@ import { InputProps } from ".";
 export default {
   title: "Input",
   component: Input,
+  tags:["autodocs"]
 };
 
 export const Basic = {

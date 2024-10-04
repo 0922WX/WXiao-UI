@@ -5,6 +5,7 @@ import { SwitchProps } from ".";
 export default {
   title: "Switch",
   component: Switch,
+  tags:["autodocs"]
 };
 
 const Template = (args: SwitchProps) => {

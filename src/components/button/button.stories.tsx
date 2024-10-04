@@ -5,6 +5,7 @@ import {User} from "lucide-react"
 export default {
   title: "Button",
   component: Button,
+  tags:["autodocs"]
 };
 
 export const Contained = {

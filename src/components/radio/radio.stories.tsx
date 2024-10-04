@@ -5,6 +5,7 @@ import { RadioProps } from ".";
 export default {
   title: "Radio",
   component: Radio,
+  tags:["autodocs"]
 };
 
 const Template = (args: RadioProps) => {
