@@ -109,4 +109,30 @@ interface ModalProps {
 }
 declare function Modal(props: ModalProps): react_jsx_runtime.JSX.Element | null;
 
-export { Button, Input, Modal, Radio, Select, Switch, Tabs, ThemeProvider };
+interface FlexContainerProps {
+    children: React.ReactNode;
+    direction?: "row" | "column";
+    justify?: "start" | "end" | "center";
+    align?: "top" | "end" | "bottom";
+    gap?: number;
+    height?: number;
+    showborder?: boolean;
+}
+declare function FlexContainer(props: FlexContainerProps): react_jsx_runtime.JSX.Element;
+
+interface AlertProps {
+    message: string;
+    type?: "success" | "error" | "warning" | "info";
+    description?: string;
+    showIcon?: boolean;
+    closeable?: boolean;
+}
+declare function Alert(props: AlertProps): react_jsx_runtime.JSX.Element | null;
+
+interface SpinnerProps {
+    size?: "small" | "medium" | "large";
+    color?: string;
+}
+declare function Spinner(props: SpinnerProps): react_jsx_runtime.JSX.Element;
+
+export { Alert, Button, FlexContainer, Input, Modal, Radio, Select, Spinner, Switch, Tabs, ThemeProvider };
