@@ -1,0 +1,74 @@
+
+> wx-uidesign@1.0.4 build-storybook
+> storybook build --output-dir=C:\Users\wx\AppData\Local\Temp\chromatic--12140-nYzJklYTUUT9
+
+@storybook/core v8.3.4
+
+info => Cleaning outputDir: ..\..\AppData\Local\Temp\chromatic--12140-nYzJklYTUUT9
+info => Loading presets
+info => Building manager..
+info => Manager built (175 ms)
+info => Building preview..
+info Using tsconfig paths for react-docgen
+[36mvite v5.4.8 [32mbuilding for production...[36m[39m
+transforming...
+[32m✓[39m 2183 modules transformed.
+rendering chunks...
+computing gzip size...
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[32massets/context-C0qIqeS4.png                [39m[1m[2m  6.12 kB[22m[1m[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[32massets/styling-Bk6zjRzU.png                [39m[1m[2m  7.24 kB[22m[1m[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[32miframe.html                                [39m[1m[2m 16.36 kB[22m[1m[22m[2m │ gzip:   4.44 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[32massets/docs---vsFbMi.png                   [39m[1m[2m 27.88 kB[22m[1m[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[32massets/share-DGA-UcQf.png                  [39m[1m[2m 40.77 kB[22m[1m[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[32massets/accessibility-W_h2acOZ.png          [39m[1m[2m 42.34 kB[22m[1m[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[32massets/figma-plugin-CH2hELiO.png           [39m[1m[2m 44.25 kB[22m[1m[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[32massets/theming-D6WJLNoW.png                [39m[1m[2m 44.37 kB[22m[1m[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[32massets/testing-cbzR9l9r.png                [39m[1m[2m 49.31 kB[22m[1m[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[32massets/addon-library-BWUCAmyN.png          [39m[1m[2m467.37 kB[22m[1m[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[35massets/preview-DjTsjpHd.css                [39m[1m[2m  9.09 kB[22m[1m[22m[2m │ gzip:   2.01 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/preview-CJc6OnLm.js                 [39m[1m[2m  0.11 kB[22m[1m[22m[2m │ gzip:   0.11 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/preview-DFmD0pui.js                 [39m[1m[2m  0.17 kB[22m[1m[22m[2m │ gzip:   0.15 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/x-BoXa7sCr.js                       [39m[1m[2m  0.33 kB[22m[1m[22m[2m │ gzip:   0.26 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/index-BrnU7xv7.js                   [39m[1m[2m  0.42 kB[22m[1m[22m[2m │ gzip:   0.27 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/index-CPSBcHtu.js                   [39m[1m[2m  0.59 kB[22m[1m[22m[2m │ gzip:   0.36 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/chunk-H6MOWX77-DTQOW814.js          [39m[1m[2m  0.60 kB[22m[1m[22m[2m │ gzip:   0.37 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/preview-BhhEZcNS.js                 [39m[1m[2m  0.64 kB[22m[1m[22m[2m │ gzip:   0.45 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/preview-DGUiP6tS.js                 [39m[1m[2m  0.71 kB[22m[1m[22m[2m │ gzip:   0.50 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/theme-provider.stories-DPZS_UUf.js  [39m[1m[2m  0.71 kB[22m[1m[22m[2m │ gzip:   0.41 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/index-DrFu-skq.js                   [39m[1m[2m  0.77 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/index-i5X67GZP.js                   [39m[1m[2m  0.79 kB[22m[1m[22m[2m │ gzip:   0.50 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/react-18-BsJejteH.js                [39m[1m[2m  0.80 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/preview-b_Jmq5xi.js                 [39m[1m[2m  0.88 kB[22m[1m[22m[2m │ gzip:   0.56 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/jsx-runtime-CkxqCPlQ.js             [39m[1m[2m  0.92 kB[22m[1m[22m[2m │ gzip:   0.58 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/DocsRenderer-CFRXHY34-CBRlvCxr.js   [39m[1m[2m  1.38 kB[22m[1m[22m[2m │ gzip:   0.73 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/createLucideIcon-DGAn-sPI.js        [39m[1m[2m  1.55 kB[22m[1m[22m[2m │ gzip:   0.65 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/index-BoBLSORR.js                   [39m[1m[2m  1.76 kB[22m[1m[22m[2m │ gzip:   0.89 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/spinner.stories-DwiZ6xkw.js         [39m[1m[2m  1.91 kB[22m[1m[22m[2m │ gzip:   0.79 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/flex-container.stories-DVl-cVGh.js  [39m[1m[2m  2.26 kB[22m[1m[22m[2m │ gzip:   0.88 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/index-D-8MO0q_.js                   [39m[1m[2m  2.58 kB[22m[1m[22m[2m │ gzip:   1.26 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/index-BhakQPDc.js                   [39m[1m[2m  2.75 kB[22m[1m[22m[2m │ gzip:   0.96 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/modal.stories-vkJQvxoC.js           [39m[1m[2m  3.33 kB[22m[1m[22m[2m │ gzip:   1.26 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/tab.stories-BKpqf1gA.js             [39m[1m[2m  3.47 kB[22m[1m[22m[2m │ gzip:   1.26 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/preview-aVwhiz9X.js                 [39m[1m[2m  3.50 kB[22m[1m[22m[2m │ gzip:   1.69 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/switch.stories-Bj6pCusR.js          [39m[1m[2m  3.60 kB[22m[1m[22m[2m │ gzip:   1.23 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/radio.stories-BDVZON9k.js           [39m[1m[2m  3.86 kB[22m[1m[22m[2m │ gzip:   1.30 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/button.stories-BIiYbT-H.js          [39m[1m[2m  3.99 kB[22m[1m[22m[2m │ gzip:   1.16 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/preview-D77C14du.js                 [39m[1m[2m  5.03 kB[22m[1m[22m[2m │ gzip:   1.86 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/input.stories-Df1pkMas.js           [39m[1m[2m  5.79 kB[22m[1m[22m[2m │ gzip:   1.56 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/alert.stories-ST3fH84K.js           [39m[1m[2m  5.83 kB[22m[1m[22m[2m │ gzip:   1.62 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/iframe-BhRoESnm.js                  [39m[1m[2m  6.21 kB[22m[1m[22m[2m │ gzip:   2.21 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/select.stories-Dcs-0xol.js          [39m[1m[2m  6.84 kB[22m[1m[22m[2m │ gzip:   2.05 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/index-DJO9vBfz.js                   [39m[1m[2m  6.96 kB[22m[1m[22m[2m │ gzip:   2.78 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/preview-BWzBA1C2.js                 [39m[1m[2m  7.62 kB[22m[1m[22m[2m │ gzip:   1.56 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/preview-CFgKly6U.js                 [39m[1m[2m  8.12 kB[22m[1m[22m[2m │ gzip:   3.10 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/Configure-C9l1Z2nH.js               [39m[1m[2m 25.90 kB[22m[1m[22m[2m │ gzip:  11.02 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/Color-ERTF36HU-BYeYOTXt.js          [39m[1m[2m 30.89 kB[22m[1m[22m[2m │ gzip:  11.70 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/entry-preview-Dr9W4gKP.js           [39m[1m[2m 38.38 kB[22m[1m[22m[2m │ gzip:  13.67 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/index-CvTBScqg.js                   [39m[1m[2m 75.13 kB[22m[1m[22m[2m │ gzip:  22.72 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/index-Cp9I2zMD.js                   [39m[1m[2m133.96 kB[22m[1m[22m[2m │ gzip:  43.14 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/entry-preview-docs-CZOQtJ7v.js      [39m[1m[2m355.72 kB[22m[1m[22m[2m │ gzip: 107.19 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/preview-DVI_gYQC.js                 [39m[1m[33m545.24 kB[39m[22m[2m │ gzip: 144.66 kB[22m
+[2m../../AppData/Local/Temp/chromatic--12140-nYzJklYTUUT9/[22m[36massets/index-D5AFHhXR.js                   [39m[1m[33m899.47 kB[39m[22m[2m │ gzip: 284.66 kB[22m
+[32m✓ built in 7.58s[39m
+info => Preview built (8.59 s)
+info => Output directory: C:\Users\wx\AppData\Local\Temp\chromatic--12140-nYzJklYTUUT9

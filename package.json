@@ -8,9 +8,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c --bundleConfigAsCjs",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "chromatic": "npx chromatic --project-token=chpt_9e331e3c92856d2"
   },
-  "author": "wxdxwo",
+  "author": {
+    "name": "wxdxwo"
+  },
   "license": "ISC",
   "description": "",
   "devDependencies": {
@@ -25,6 +28,7 @@
     "@storybook/test": "^8.3.4",
     "@types/react": "^18.3.10",
     "autoprefixer": "^10.4.20",
+    "chromatic": "^11.11.0",
     "postcss": "^8.4.47",
     "react": "^18.3.1",
     "storybook": "^8.3.4",

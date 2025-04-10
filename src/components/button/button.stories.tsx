@@ -39,6 +39,8 @@ export const Disabled = {
 } as {args: ButtonProps};
 
 
+
+
 export const Small = {
   args: {
     title: "Click Me",
